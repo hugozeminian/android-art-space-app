@@ -1,0 +1,31 @@
+1.
+ArtName: Still Life of Flowers
+ArtistName: Rijksmuseum
+Year: 1600-1687
+Font: Unsplash
+User: Europeana
+
+https://unsplash.com/photos/a-painting-of-flowers-and-a-dragon-fly-s4dHoGnF9w0
+
+
+
+2.
+ArtName: Duck Shooting in a Wooded Landscape
+ArtistName: Lütken, Julie
+Year: 1813
+Font: Unsplash
+User: Europeana
+
+https://unsplash.com/photos/a-painting-of-a-wooded-area-with-animals-7g4jI-KdN-s
+
+
+
+3.
+ArtName: Graafika. Seisund VIII
+ArtistName: Keerend, Avo 
+Year: 1986
+Font: Unsplash
+User: Europeana
+
+https://unsplash.com/photos/a-painting-with-a-blue-background-and-white-shapes-I19zcQNpVY4
+

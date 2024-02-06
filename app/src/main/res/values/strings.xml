@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Art_Space_App</string>
+
+    <string name="ArtName_1">Still Life of Flowers</string>
+    <string name="ArtistName_1">Rijksmuseum</string>
+    <string name="YearArt_1">1600-1687</string>
+    <string name="Link_1">https://unsplash.com/photos/a-painting-of-flowers-and-a-dragon-fly-s4dHoGnF9w0</string>
+
+    <string name="ArtName_2">Duck Shooting</string>
+    <string name="ArtistName_2">Lütken, Julie</string>
+    <string name="YearArt_2">1813</string>
+    <string name="Link_2">https://unsplash.com/photos/a-painting-of-a-wooded-area-with-animals-7g4jI-KdN-s</string>
+
+    <string name="ArtName_3">Graafika. Seisund VIII</string>
+    <string name="ArtistName_3">Keerend, Avo</string>
+    <string name="YearArt_3">1986</string>
+    <string name="Link_3">https://unsplash.com/photos/a-painting-with-a-blue-background-and-white-shapes-I19zcQNpVY4</string>
+
+    <string name="Source">Unsplash</string>
+    <string name="User">Europeana</string>
+</resources>
